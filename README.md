@@ -15,6 +15,7 @@ Software engineer with a finance background, focused on practical products in fi
 - [goblinos-assistant](https://github.com/fuaadabdullah/goblinos-assistant): multi-provider AI gateway/orchestration platform
 - [marcus-website](https://github.com/fuaadabdullah/marcus-website): customer website delivery for a service business
 - [gradem8-hf-space-2](https://github.com/fuaadabdullah/gradem8-hf-space-2): Hugging Face integration demo
+- [shopmind-ai](https://github.com/fuaadabdullah/shopmind-ai): automotive diagnostic assistant with ranked causes and repair guidance
 
 ## Contact
 
