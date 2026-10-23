@@ -19,5 +19,5 @@ Software engineer with a finance background, focused on practical products in fi
 
 ## Contact
 
-- Email: fuaadabdullah@gmail.com
+- Professional inquiries: https://heyimfuaad.me/contact
 - LinkedIn: https://www.linkedin.com/in/fuaadabdullah
