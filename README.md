@@ -27,5 +27,6 @@ My professional profile: **https://heyimfuaad.me/profile**. One introduction for
 
 ## Contact
 
-- Professional inquiries: https://heyimfuaad.me/contact
+- Professional email (AyahOS): ayahos.dev@gmail.com
+- Contact form: https://heyimfuaad.me/contact
 - LinkedIn: https://www.linkedin.com/in/fuaadabdullah
