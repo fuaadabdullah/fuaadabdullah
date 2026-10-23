@@ -1,6 +1,14 @@
 # Fuaad Abdullah
 
-Software engineer with a finance background, focused on practical products in fintech tooling, AI systems, and production web applications.
+Full-stack software developer and Georgia State University undergraduate, building practical products in web engineering, fintech tools, and AI systems.
+
+My professional profile: **https://heyimfuaad.me/profile**. One introduction for customers, employers, and schools.
+
+## Find what you need
+
+- **Customers:** [Services and project work](https://heyimfuaad.me/profile#customers) and [contact](https://heyimfuaad.me/contact)
+- **Employers:** [Engineering background, case studies, and résumé](https://heyimfuaad.me/profile#employers)
+- **Schools:** [Current undergraduate studies and academic interests](https://heyimfuaad.me/profile#schools)
 
 ## Core stack
 
